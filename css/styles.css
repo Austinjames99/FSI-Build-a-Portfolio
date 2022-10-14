@@ -1,5 +1,30 @@
-.Header
-    {background-color:blanchedalmond;
+.header
+    {  background-color:bisque;
        text-align: center;
+       font-style: oblique;
+       border-radius: 10ch;
+       outline-style: auto;
     }
 
+.body
+     
+    { text-align: center;
+      background-color:blanchedalmond;
+      border-radius: .1cm;
+      outline-style: dashed;
+    }
+
+
+.Picture
+    { resize: width 100px ;
+      height: 100px
+     
+    }
+
+#quote
+ { font-style: italic;
+
+ }
+
+ #coming_soon
+ 
